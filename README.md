@@ -1,7 +1,7 @@
 # portfolio <h1 align="center">Hi 👋, I'm Kamran Ali</h1>
 <h3 align="center">🎓 *Fresh Computer Science Graduate* | 💻 *Aspiring PHP / Laravel Developer*</h3>
 
-- 🌱 I’m currently learning **Php,Laravel,SQL,Node,js,Javascript**
+- 🌱 I’m currently working on **Php,Laravel,SQL,Node,js,Javascript**
 
 - 👯 I’m looking to collaborate on **an entry-level developer role**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/(https://www.linkedin.com/in/kamran-ali-a0430425a)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/kamran-ali-a0430425a)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kamran-ali-a0430425a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamran-ali-a0430425a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
