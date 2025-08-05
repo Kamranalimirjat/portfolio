@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **an entry-level developer role**
 
-- 💬 Ask me about **I’m a passionate and motivated junior web developer with a strong foundation in *PHP, **Laravel, **MySQL, and **front-end technologies* like *HTML, **CSS, and **JavaScript. I recently completed an intensive **Full Stack Development program* and built several projects that reflect my commitment to building dynamic, user-friendly applications.**
+- 💬 **I’m a passionate and motivated junior web developer with a strong foundation in *PHP, **Laravel, **MySQL, and **front-end technologies* like *HTML, **CSS, and **JavaScript. I recently completed an intensive **Full Stack Development program* and built several projects that reflect my commitment to building dynamic, user-friendly applications.**
 
 - 📫 How to reach me **📧 kamranmirjat110@gmail.com | 📱 +92 311 6849110**
 
